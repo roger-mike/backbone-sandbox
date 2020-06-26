@@ -1,0 +1,9 @@
+.pulse-btn {
+    background-color: red;
+    border-radius: 32px;
+    border: None;
+}
+
+#test-map {
+    height: 580px;
+}
